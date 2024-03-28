@@ -1,0 +1,21 @@
+#root {
+  text-align: center;
+}
+
+.station {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.station-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 100px;
+}
+.station-name {
+  padding-bottom: 70px;
+  font-size: 30px;
+}
